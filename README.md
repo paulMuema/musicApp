@@ -1,2 +1,2 @@
 # musicApp
-A music application 
+A music application for my First Capstone Project
